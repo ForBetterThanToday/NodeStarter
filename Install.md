@@ -13,5 +13,7 @@ Node.js에 대한 연습 및 개인 프로젝트
 
 3. GitHub사용을 위해 Git 설치
    (https://git-scm.com/download/win)
-   
+  
+  VScode에서 Git 버튼을 눌렀을 때 No Source Control providers registered가 나타난 경우 Workspace를 추가한다.
+  
    
